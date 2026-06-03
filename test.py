@@ -1,4 +1,4 @@
-if cat_mood == "hungry":
+if cat_mood == "tired":
     meow()
 elif cat_mood == "asleep":
     do_not_disturb()
